@@ -56,7 +56,8 @@
   <project path="device/htc/m7att" name="AOKP/device_htc_m7att" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/m7tmo" name="AOKP/device_htc_m7tmo" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/m7spr" name="AOKP/device_htc_m7spr" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
-  <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" groups="notdefault,device,m7" />
+  <project path="device/htc/m7vzw" name="SofaKingAndroid/android_device_htc_m7vzw" remote="cm" revision="ska43" groups="notdefault,device,m7" />
+  <project path="device/htc/m7-common" name="AOKP/device_htc_m7-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/msm8960-common" name="AOKP/device_htc_msm8960-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7,evita" />
   <project path="device/htc/s4-common" name="AOKP/device_htc_s4-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,htc,evita" />
   <project path="device/lge/iprj-common" name="AOKP/device_lge_iprj-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,p930,su640,vs920" />
@@ -472,7 +473,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" groups="pdk" />
-  <project path="system/core" name="AOKP/system_core" remote="aokp" revision="jb-mr2" groups="pdk" />
+  <project path="system/core" name="SofaKingAndroid/system_core" remote="aokp" revision="ska43" groups="pdk" />
   <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="cm" revision="cm-10.2" groups="pdk" />
