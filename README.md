@@ -69,7 +69,7 @@ Initialize the sofa repo and download the manifest
 
 Init core trees without any device/kernel/vendor :
 
-$ repo init -u https://github.com/SofaKingAndroid/platform_manifest.git -b jb-mr2
+$ repo init -u https://github.com/SofaKingAndroid/platform_manifest.git -b ska43
 
 sync repo :
 
