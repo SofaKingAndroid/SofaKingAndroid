@@ -55,7 +55,7 @@ Give the repo binary the proper permissions
 
 $ chmod a+x ~/bin/repo
 
-Create directory for where the AOKP repo will be stored and synced
+Create directory for where the SofaKingAndroid repo will be stored and synced
 
 $ mkdir ~/dev
 
