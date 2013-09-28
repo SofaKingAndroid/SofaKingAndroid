@@ -506,5 +506,5 @@
 
   
 
-  <project path="platform_manifest" name="AOKP/platform_manifest" remote="aokp" revision="jb-mr2" />
+  <project path="platform_manifest" name="SofaKingAndroid/platform_manifest" remote="aokp" revision="ska43" />
 </manifest>
