@@ -501,8 +501,8 @@
   <project path="vendor/asus" name="AOKP/vendor_asus" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,asus" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="SofaKingAndroid/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="SofaKingAndroid/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="SofaKingAndroid/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
 
   
 
