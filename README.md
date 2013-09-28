@@ -75,10 +75,9 @@ sync repo :
 
 $ repo sync
 use the Make clean script if you want to do a clean build
+
 $ make clean && make clobber
+
 Build the rom for mako
+
 $ . build/envsetup.sh && brunch mako
-Build the rom for M7 GSM
-$ . build/envsetup.sh && brunch m7ul
-Build the rom for M7 Sprint
-$ . build/envsetup.sh && brunch m7spr
