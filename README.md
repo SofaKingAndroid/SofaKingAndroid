@@ -1,4 +1,3 @@
-
 [Video] How to install java JDK in Ubuntu 12.04, 11.10 LTS April 5, 2012
 http://forums.team-nocturnal.com/index.php/topic/629-video-how-to-install-java-jdk-in-ubuntu-1204-1110-lts-april-5-2012/
 
@@ -66,7 +65,7 @@ Move to our new sofa directory
 
 $ cd ~/dev/sofa
 
-Initialize the AOKP repo and download the manifest
+Initialize the sofa repo and download the manifest
 
 Init core trees without any device/kernel/vendor :
 
