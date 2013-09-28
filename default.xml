@@ -60,7 +60,7 @@
   <project path="device/htc/msm8960-common" name="AOKP/device_htc_msm8960-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7,evita" />
   <project path="device/htc/s4-common" name="AOKP/device_htc_s4-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,htc,evita" />
   <project path="device/lge/iprj-common" name="AOKP/device_lge_iprj-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,p930,su640,vs920" />
-  <project path="device/lge/mako" name="AOKP/device_lge_mako" remote="aokp" revision="jb-mr2" groups="notdefault,device,mako" />
+  <project path="device/lge/mako" name="SofaKingAndroid/device_lge_mako" remote="aokp" revision="ska43" groups="notdefault,device,mako" />
   <project path="device/lge/p930" name="AOKP/device_lge_p930" remote="aokp" revision="jb-mr2" groups="notdefault,device,p930" />
   <project path="device/lge/su640" name="AOKP/device_lge_su640" remote="aokp" revision="jb-mr2" groups="notdefault,device,su640" />
   <project path="device/lge/vs920" name="AOKP/device_lge_vs920" remote="aokp" revision="jb-mr2" groups="notdefault,device,vs920" />
