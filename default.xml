@@ -56,8 +56,7 @@
   <project path="device/htc/m7att" name="AOKP/device_htc_m7att" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/m7tmo" name="AOKP/device_htc_m7tmo" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/m7spr" name="AOKP/device_htc_m7spr" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
-  <project path="device/htc/m7vzw" name="SofaKingAndroid/android_device_htc_m7vzw" remote="cm" revision="ska43" groups="notdefault,device,m7" />
-  <project path="device/htc/m7-common" name="AOKP/device_htc_m7-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
+  <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" groups="notdefault,device,m7" />
   <project path="device/htc/msm8960-common" name="AOKP/device_htc_msm8960-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7,evita" />
   <project path="device/htc/s4-common" name="AOKP/device_htc_s4-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,htc,evita" />
   <project path="device/lge/iprj-common" name="AOKP/device_lge_iprj-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,p930,su640,vs920" />
@@ -492,6 +491,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 -->
   <project path="vendor/aokp" name="SofaKingAndroid/vendor_aokp" remote="aokp" revision="ska43" />
+  <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr2" />
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,htc" />
   <project path="vendor/lge" name="AOKP/vendor_lge" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,lge" />
   <project path="vendor/motorola" name="AOKP/vendor_motorola" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,motorola" />
@@ -500,9 +500,9 @@
   <project path="vendor/sony" name="AOKP/vendor_sony" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,sony" />
   <project path="vendor/asus" name="AOKP/vendor_asus" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,asus" />
 
-  <project path="vendor/tmobile/apps/ThemeChooser" name="SofaKingAndroid/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="SofaKingAndroid/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="SofaKingAndroid/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
 
   
 
