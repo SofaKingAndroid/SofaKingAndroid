@@ -401,7 +401,7 @@
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" remote="aokp" revision="jb-mr2" />
+  <project path="packages/apps/ROMControl" name="SofaKing/packages_apps_ROMControl" remote="aokp" revision="ska43" />
   <project path="packages/apps/QuickSearchBox" name="AOKP/packages_apps_QuickSearchBox" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Settings" name="SofaKingAndroid/packages_apps_Settings" remote="aokp" revision="ska43" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
