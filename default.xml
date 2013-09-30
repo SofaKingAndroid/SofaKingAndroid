@@ -52,7 +52,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="notdefault,device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="notdefault,device" />
   <project path="device/htc/evita" name="AOKP/device_htc_evita" remote="aokp" revision="jb-mr2" groups="notdefault,device,evita" />
-  <project path="device/htc/jewel" name="SofaKing/device_htc_jewel" remote="aokp" revision="ska43" groups="notdefault,device,jewel" />
+  <project path="device/htc/jewel" name="SofaKingAndroid/device_htc_jewel" remote="aokp" revision="ska43" groups="notdefault,device,jewel" />
   <project path="device/htc/m7ul" name="AOKP/device_htc_m7ul" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/m7att" name="AOKP/device_htc_m7att" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/m7tmo" name="AOKP/device_htc_m7tmo" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
@@ -401,7 +401,7 @@
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/ROMControl" name="SofaKing/packages_apps_ROMControl" remote="aokp" revision="ska43" />
+  <project path="packages/apps/ROMControl" name="SofaKingAndroid/packages_apps_ROMControl" remote="aokp" revision="ska43" />
   <project path="packages/apps/QuickSearchBox" name="AOKP/packages_apps_QuickSearchBox" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Settings" name="SofaKingAndroid/packages_apps_Settings" remote="aokp" revision="ska43" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
