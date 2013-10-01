@@ -72,8 +72,8 @@
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/aries-common" name="AOKP/device_samsung_aries-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,vibrantmtd" />
   <project path="device/samsung/celox-common" name="AOKP/device_samsung_celox-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,hercules" />
-  <project path="device/samsung/d2-common" name="SofaKingAndroid/device_samsung_d2-common" remote="aokp" revision="ska43" groups="notdefault,device,d2" />
-  <project path="device/samsung/d2att" name="SofaKingAndroid/device_samsung_d2att" remote="aokp" revision="ska43" groups="notdefault,device,d2" />
+  <project path="device/samsung/d2-common" name="SofaKingAndroid/device_samsung_d2-common" remote="cm" revision="ska43" groups="notdefault,device,d2" />
+  <project path="device/samsung/d2att" name="SofaKingAndroid/device_samsung_d2att" remote="cm" revision="ska43" groups="notdefault,device,d2" />
   <project path="device/samsung/d2tmo" name="AOKP/device_samsung_d2tmo" remote="aokp" revision="jb-mr2" groups="notdefault,device,d2" />
   <project path="device/samsung/d2usc" name="AOKP/device_samsung_d2usc" remote="aokp" revision="jb-mr2" groups="notdefault,device,d2" />
   <project path="device/samsung/d2vzw" name="AOKP/device_samsung_d2vzw" remote="aokp" revision="jb-mr2" groups="notdefault,device,d2" />
