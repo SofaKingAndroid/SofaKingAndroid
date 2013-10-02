@@ -52,7 +52,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="notdefault,device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="notdefault,device" />
   <project path="device/htc/evita" name="AOKP/device_htc_evita" remote="aokp" revision="jb-mr2" groups="notdefault,device,evita" />
-  <project path="device/htc/jewel" name="SofaKingAndroid/device_htc_jewel" remote="aokp" revision="jb-mr2" groups="notdefault,device,jewel" />
+  <project path="device/htc/jewel" name="SofaKingAndroid/device_htc_jewel" remote="aokp" revision="ska43" groups="notdefault,device,jewel" />
   <project path="device/htc/m7ul" name="SofaKingAndroid/device_htc_m7ul" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/m7spr" name="SofaKingAndroid/device_htc_m7spr" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
