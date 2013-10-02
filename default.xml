@@ -217,8 +217,8 @@
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" />
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" />
-  <project path="external/koush/Superuser" name="SKA/external_koush_Superuser" remote="cm" revision="master" />
-  <project path="external/koush/Widgets" name="SKA/external_koush_Widgets" remote="cm" revision="master" />
+  <project path="external/koush/Superuser" name="SofaKingAndroid/external_koush_Superuser" remote="cm" revision="cm-10.2" />
+  <project path="external/koush/Widgets" name="SofaKingAndroid/external_koush_Widgets" remote="cm" revision="cm-10.2" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" groups="pdk" />
