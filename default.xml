@@ -48,13 +48,13 @@
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" />
-  <project path="device/htc/m7att" name="SofaKingAndroid/device_htc_m7att" remote="aokp" revision="jb-mr2" /> 
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/htc/evita" name="AOKP/device_htc_evita" remote="aokp" revision="jb-mr2" />
   <project path="device/htc/jewel" name="SofaKingAndroid/device_htc_jewel" remote="aokp" revision="ska43" />
   <project path="device/htc/m7ul" name="SofaKingAndroid/device_htc_m7ul" remote="aokp" revision="ska43" />
-  <project path="device/htc/m7tmo" name="AOKP/device_htc_m7tmo" remote="aokp" revision="jb-mr2" />
+  <project path="device/htc/m7att" name="SofaKingAndroid/device_htc_m7att" remote="aokp" revision="jb-mr2" /> 
+  <project path="device/htc/m7tmo" name="SofaKingAndroid/device_htc_m7tmo" remote="aokp" revision="jb-mr2" />
   <project path="device/htc/m7spr" name="SofaKingAndroid/device_htc_m7spr" remote="aokp" revision="ska43" />
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" />
   <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
@@ -298,7 +298,7 @@
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="SofaKingAndroid/kernel_htc_m7" remote="aokp" revision="ska43" />
   <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-10.2" />
-  <project path="kernel/samsung/d2" name="SofaKingAndroid/android_kernel_samsung_d2" remote="cm" revision="ska43" />
+  <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-10.2" groups="notdefault,kernel,d2" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="cm" revision="cm-10.2" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
