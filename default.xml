@@ -57,7 +57,6 @@
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" />
   <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/htc/s4-common" name="SofaKingAndroid/device_htc_s4-common" remote="aokp" revision="ska43" />
-  <project path="device/lge/mako" name="SofaKingAndroid/device_lge_mako" remote="aokp" revision="jb-mr2" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
