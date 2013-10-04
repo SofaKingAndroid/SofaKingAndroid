@@ -420,6 +420,7 @@
 -->
   <project path="vendor/ska" name="SofaKingAndroid/vendor_ska" remote="aokp" revision="ska43" />
   <project path="vendor/htc" name="SofaKingAndroid/vendor_htc" remote="aokp" revision="ska43" />
+  <project path="vendor/samsung" name="SofaKingAndroid/vendor_samsung" remote="aokp" revision="ska43" /> 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
