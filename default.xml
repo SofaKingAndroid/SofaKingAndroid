@@ -57,7 +57,6 @@
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" />
   <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/htc/s4-common" name="SofaKingAndroid/device_htc_s4-common" remote="aokp" revision="ska43" />
-  <project path="device/lge/iprj-common" name="SofaKingAndroid/device_lge_iprj-common" remote="aokp" revision="jb-mr2" />
   <project path="device/lge/mako" name="SofaKingAndroid/device_lge_mako" remote="aokp" revision="jb-mr2" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -420,7 +419,6 @@
 -->
   <project path="vendor/ska" name="SofaKingAndroid/vendor_ska" remote="aokp" revision="ska43" />
   <project path="vendor/htc" name="SofaKingAndroid/vendor_htc" remote="aokp" revision="ska43" />
-  <project path="vendor/lge" name="SofaKingAndroid/vendor_lge" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
