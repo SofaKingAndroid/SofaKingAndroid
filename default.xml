@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="aosp"
+  <remote  name="aosp"
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
 
-  <remote name="aokp"
+  <remote  name="aokp"
            fetch="https://github.com/"
            review="gerrit.aokp.co" />
 
-  <remote name="cm"
+  <remote  name="cm"
            fetch="https://github.com/"
            review="review.cyanogenmod.com" />
 
-  <remote name="omapzoom"
+  <remote  name="omapzoom"
            fetch="git://git.omapzoom.org/"
            review="http://review.omapzoom.org/" />
 
@@ -41,7 +41,7 @@
   <project path="device/asus/tilapia" name="AOKP/device_asus_tilapia" remote="aokp" revision="jb-mr2" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-10.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
-  <project path="device/generic/common" name="device/generic/common" groups="pdk" />
+  <project path="device/generic/common" name="device/generic/common"  groups="pdk" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
   <project path="device/generic/mips" name="device/generic/mips" groups="pdk" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
@@ -57,7 +57,10 @@
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" />
   <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/htc/s4-common" name="SofaKingAndroid/device_htc_s4-common" remote="aokp" revision="ska43" />
+  <project path="device/lge/mako" name="SofaKingAndroid/device_lge_mako" remote="aokp" revision="jb-mr2" />
   <project path="device/sample" name="device/sample" groups="pdk" />
+  <project path="device/samsung/d2-common" name="SofaKingAndroid/device_samsung_d2-common" remote="aokp" revision="ska43" />
+  <project path="device/samsung/d2att" name="SofaKingAndroid/device_samsung_d2att" remote="aokp" revision="ska43" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -255,7 +258,7 @@
   <project path="frameworks/opt/timezonepicker" name="CyanogenMod/android_frameworks_opt_timezonepicker" remote="cm" revision="cm-10.2" />
   <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" remote="cm" revision="cm-10.2" />
-  <project path="frameworks/rs" name="AOKP/frameworks_rs" remote="aokp" revision="jb-mr2" groups="pdk" />
+  <project path="frameworks/rs" name="AOKP/frameworks_rs" remote="aokp" revision="jb-mr2"  groups="pdk" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/volley" name="CyanogenMod/android_frameworks_volley" remote="cm" revision="cm-10.2" />
@@ -290,6 +293,7 @@
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="SofaKingAndroid/kernel_htc_m7" remote="aokp" revision="ska43" />
   <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-10.2" />
+  <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="ska43" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="cm" revision="cm-10.2" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
@@ -368,7 +372,7 @@
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" />
   <project path="prebuilts/clang/linux-x86/3.2" name="platform/prebuilts/clang/linux-x86/3.2" groups="linux" />
   <project path="prebuilts/devtools" name="platform/prebuilts/devtools" />
-  <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" />
+  <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse"  />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" groups="darwin,arm" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" groups="pdk,darwin,arm" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" groups="darwin,arm" remote="aosp" />
@@ -404,16 +408,16 @@
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="AOKP/system_vold" remote="aokp" revision="jb-mr2" groups="pdk" />
 <!--
-<project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
-<project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
-<project path="tools/base" name="platform/tools/base" groups="notdefault,tools" />
-<project path="tools/build" name="platform/tools/build" groups="notdefault,tools" />
-<project path="tools/emulator" name="platform/tools/emulator" groups="notdefault,tools" />
-<project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
-<project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" />
-<project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
-<project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
-<project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
+  <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
+  <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
+  <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" />
+  <project path="tools/build" name="platform/tools/build" groups="notdefault,tools" />
+  <project path="tools/emulator" name="platform/tools/emulator" groups="notdefault,tools" />  
+  <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
+  <project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" />
+  <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
+  <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
+  <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 -->
   <project path="vendor/ska" name="SofaKingAndroid/vendor_ska" remote="aokp" revision="ska43" />
   <project path="vendor/htc" name="SofaKingAndroid/vendor_htc" remote="aokp" revision="ska43" />
