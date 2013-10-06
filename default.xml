@@ -58,6 +58,7 @@
   <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/htc/s4-common" name="SofaKingAndroid/device_htc_s4-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/d2-common" name="SofaKingAndroid/device_samsung_d2-common" remote="aokp" revision="ska43" />
+  <project path="device/samsung/msm8960-common" name="SofaKingAndroid/device_samsung_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/d2att" name="SofaKingAndroid/device_samsung_d2att" remote="aokp" revision="ska43" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
