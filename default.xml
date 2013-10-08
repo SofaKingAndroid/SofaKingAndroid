@@ -50,7 +50,7 @@
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
-  <project path="device/htc/evita" name="AOKP/device_htc_evita" remote="aokp" revision="jb-mr2" />
+  <project path="device/htc/evita" name="SofaKingAndroid/device_htc_evita" remote="aokp" revision="ska43" />
   <project path="device/htc/jewel" name="SofaKingAndroid/device_htc_jewel" remote="aokp" revision="ska43" />
   <project path="device/htc/m7ul" name="SofaKingAndroid/device_htc_m7ul" remote="aokp" revision="ska43" />
   <project path="device/htc/m7spr" name="SofaKingAndroid/device_htc_m7spr" remote="aokp" revision="ska43" />
