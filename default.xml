@@ -57,6 +57,7 @@
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" />
   <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/htc/s4-common" name="SofaKingAndroid/device_htc_s4-common" remote="aokp" revision="ska43" />
+  <project path="device/lge/mako" name="AOKP/device_lge_mako" remote="aokp" revision="jb-mr2" />
   <project path="device/samsung/d2-common" name="SofaKingAndroid/device_samsung_d2-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/msm8960-common" name="SofaKingAndroid/device_samsung_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/qcom-common" name="SofaKingAndroid/device_samsung_qcom-common" remote="aokp" revision="ska43" />
@@ -295,6 +296,7 @@
   <project path="kernel/htc/m7" name="SofaKingAndroid/kernel_htc_m7" remote="aokp" revision="ska43" />
   <project path="kernel/samsung/d2" name="SofaKingAndroid/kernel_samsung_d2" remote="aokp" revision="ska43" /> 
   <project path="kernel/htc/msm8960" name="SofaKingAndroid/kernel_htc_msm8960" remote="aokp" revision="ska43" />
+  <project path="kernel/google/msm" name="CyanogenMod/android_kernel_google_msm" remote="cm" revision="cm-10.2" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="cm" revision="cm-10.2" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
@@ -422,6 +424,7 @@
 -->
   <project path="vendor/ska" name="SofaKingAndroid/vendor_ska" remote="aokp" revision="ska43" />
   <project path="vendor/htc" name="SofaKingAndroid/vendor_htc" remote="aokp" revision="ska43" />
+  <project path="vendor/lge" name="AOKP/vendor_lge" remote="aokp" revision="jb-mr2" />
   <project path="vendor/samsung" name="SofaKingAndroid/vendor_samsung" remote="aokp" revision="ska43" /> 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
