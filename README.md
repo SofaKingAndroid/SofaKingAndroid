@@ -81,3 +81,8 @@ $ make clean && make clobber
 Build the rom for mako
 
 $ . build/envsetup.sh && brunch mako
+
+
+
+If you wish to post your rom using our source, please follow our thread format and guide lines found here. 
+http://forums.team-nocturnal.com/index.php/forum/61-sofaking-development/
