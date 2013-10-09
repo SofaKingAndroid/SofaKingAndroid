@@ -300,7 +300,6 @@
   <project path="libcore" name="CyanogenMod/android_libcore" remote="cm" revision="cm-10.2" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/Team" name="packages_apps_Team" remote="aokp" revision="ska43" />
   <project path="packages/apps/EVWidgets" name="SofaKingAndroid/packages_apps_EVWidgets" remote="aokp" revision="ska43" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" revision="cm-10.2" />
