@@ -324,7 +324,7 @@
   <project path="packages/apps/DSPManager" name="SofaKingAndroid/packages_apps_DSPManager" remote="cm" revision="ska43" />
   <project path="packages/apps/Email" name="AOKP/packages_apps_Email" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
-  <project path="packages/apps/FMRadio" name="SofaKingAndroid/packages_apps_FMRadio" remote="cm" revision="ska43" />
+  <project path="packages/apps/FMRadio" name="CyanogenMod/android_packages_apps_FMRadio" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="AOKP/packages_apps_Gallery2" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
