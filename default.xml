@@ -315,7 +315,7 @@
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CDMATools" name="AOKP/packages_apps_CDMATools" remote="aokp" revision="jb-mr2" />
-  <project path="packages/apps/CMFileManager" name="SofaKingAndroid/packages_apps_CMFileManager" remote="cm" revision="ska43" />
+  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="AOKP/packages_apps_Contacts" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/ContactsCommon" name="AOKP/packages_apps_ContactsCommon" remote="aokp" revision="jb-mr2" />
