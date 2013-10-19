@@ -338,7 +338,7 @@
   <project path="packages/apps/NocturnalTweaks" name="SofaKingAndroid/packages_apps_Nocturnal_Tweaks" remote="aokp" revision="ska43" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr2" />
-  <project path="packages/apps/PerformanceControl" name="SofaKingAndroid/android_packages_apps_PerformanceControl" remote="aokp" revision="android-4.3" />
+  <project path="packages/apps/PerformanceControl" name="SofaKingAndroid/android_packages_apps_PerformanceControl" remote="aokp" revision="ska43" />
   <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
