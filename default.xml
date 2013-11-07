@@ -53,6 +53,7 @@
   <project path="device/htc/evita" name="SofaKingAndroid/android_device_htc_evita" remote="aokp" revision="ska43" />
   <project path="device/htc/jewel" name="SofaKingAndroid/device_htc_jewel" remote="aokp" revision="ska43" />
   <project path="device/htc/m7ul" name="SofaKingAndroid/device_htc_m7ul" remote="aokp" revision="ska43" />
+  <project path="device/htc/m7att" name="SofaKingAndroid/device_htc_m7att" remote="cm" revision="ska43" />
   <project path="device/htc/m7spr" name="SofaKingAndroid/device_htc_m7spr" remote="aokp" revision="ska43" />
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" />
   <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
