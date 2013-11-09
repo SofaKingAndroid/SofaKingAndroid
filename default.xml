@@ -71,6 +71,7 @@
   <project path="device/samsung/jfltecan" name="SofaKingAndroid/device_samsung_jfltecan" remote="cm" revision="ska43" />
   <project path="device/samsung/jflteatt" name="SofaKingAndroid/device_samsung_jflteatt" remote="cm" revision="ska43" />
   <project path="device/samsung/jfltetmo" name="SofaKingAndroid/device_samsung_jfltetmo" remote="cm" revision="ska43" />
+  <project path="device/samsung/jf-common" name="SofaKingAndroid/device_samsung_jf-common" remote="cm" revision="ska43" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
