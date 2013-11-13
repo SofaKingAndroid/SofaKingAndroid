@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
+  <remote name="aosp"
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
 
-  <remote  name="aokp"
+  <remote name="aokp"
            fetch="https://github.com/"
            review="gerrit.aokp.co" />
 
-  <remote  name="cm"
+  <remote name="cm"
            fetch="https://github.com/"
            review="review.cyanogenmod.com" />
 
-  <remote  name="omapzoom"
+  <remote name="omapzoom"
            fetch="git://git.omapzoom.org/"
            review="http://review.omapzoom.org/" />
 
@@ -41,7 +41,7 @@
   <project path="device/asus/tilapia" name="AOKP/device_asus_tilapia" remote="aokp" revision="jb-mr2" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-10.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
-  <project path="device/generic/common" name="device/generic/common"  groups="pdk" />
+  <project path="device/generic/common" name="device/generic/common" groups="pdk" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
   <project path="device/generic/mips" name="device/generic/mips" groups="pdk" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
@@ -54,7 +54,7 @@
   <project path="device/htc/jewel" name="SofaKingAndroid/device_htc_jewel" remote="aokp" revision="ska43" />
   <project path="device/htc/m7ul" name="SofaKingAndroid/device_htc_m7ul" remote="aokp" revision="ska43" />
   <project path="device/htc/m7att" name="SofaKingAndroid/device_htc_m7att" remote="cm" revision="ska43" />
-  <project path="device/htc/m7tmo" name="SofaKingAndroid/device_htc_m7tmo" remote="cm" revision="ska43" />  
+  <project path="device/htc/m7tmo" name="SofaKingAndroid/device_htc_m7tmo" remote="cm" revision="ska43" />
   <project path="device/htc/m7spr" name="SofaKingAndroid/device_htc_m7spr" remote="aokp" revision="ska43" />
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" />
   <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
@@ -68,6 +68,9 @@
   <project path="device/samsung/smdk4412-qcom-common" name="SofaKingAndroid/device_samsung_smdk4412-qcom-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/smdk4412-common" name="SofaKingAndroid/device_samsung_smdk4412-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/i605" name="SofaKingAndroid/device_samsung_i605" remote="aokp" revision="ska43" />
+  <project path="device/samsung/jfltecan" name="SofaKingAndroid/device_samsung_jfltecan" remote="cm" revision="ska43" />
+  <project path="device/samsung/jflteatt" name="SofaKingAndroid/device_samsung_jflteatt" remote="cm" revision="ska43" />
+  <project path="device/samsung/jfltetmo" name="SofaKingAndroid/device_samsung_jfltetmo" remote="cm" revision="ska43" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
@@ -268,7 +271,7 @@
   <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="frameworks/opt/telephony-msim" name="AOKP/frameworks_opt_telephony-msim" remote="aokp" revision="jb-mr2" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" remote="cm" revision="cm-10.2" />
-  <project path="frameworks/rs" name="AOKP/frameworks_rs" remote="aokp" revision="jb-mr2"  groups="pdk" />
+  <project path="frameworks/rs" name="AOKP/frameworks_rs" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/volley" name="CyanogenMod/android_frameworks_volley" remote="cm" revision="cm-10.2" />
@@ -391,7 +394,7 @@
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" />
   <project path="prebuilts/clang/linux-x86/3.2" name="platform/prebuilts/clang/linux-x86/3.2" groups="linux" />
   <project path="prebuilts/devtools" name="platform/prebuilts/devtools" />
-  <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse"  />
+  <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" groups="darwin,arm" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" groups="pdk,darwin,arm" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" groups="darwin,arm" remote="aosp" />
@@ -442,7 +445,7 @@
   <project path="vendor/ska" name="SofaKingAndroid/vendor_ska" remote="aokp" revision="ska43" />
   <project path="vendor/htc" name="SofaKingAndroid/vendor_htc" remote="aokp" revision="ska43" />
   <project path="vendor/lge" name="SofaKingAndroid/vendor_lge" remote="aokp" revision="ska43" />
-  <project path="vendor/samsung" name="SofaKingAndroid/vendor_samsung" remote="aokp" revision="ska43" /> 
+  <project path="vendor/samsung" name="SofaKingAndroid/vendor_samsung" remote="aokp" revision="ska43" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
