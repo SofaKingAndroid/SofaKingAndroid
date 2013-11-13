@@ -57,20 +57,17 @@
   <project path="device/htc/m7tmo" name="SofaKingAndroid/device_htc_m7tmo" remote="cm" revision="ska43" />
   <project path="device/htc/m7spr" name="SofaKingAndroid/device_htc_m7spr" remote="aokp" revision="ska43" />
   <project path="device/htc/m7-common" name="SofaKingAndroid/device_htc_m7-common" remote="aokp" revision="ska43" />
-  <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="cm" revision="ska43" />
+  <project path="device/htc/msm8960-common" name="SofaKingAndroid/device_htc_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/htc/s4-common" name="SofaKingAndroid/device_htc_s4-common" remote="aokp" revision="ska43" />
   <project path="device/lge/mako" name="SofaKingAndroid/android_device_lge_mako" remote="aokp" revision="ska43" />
   <project path="device/samsung/d2-common" name="SofaKingAndroid/device_samsung_d2-common" remote="aokp" revision="ska43" />
-  <project path="device/samsung/msm8960-common" name="SofaKingAndroid/device_samsung_msm8960-common" remote="cm" revision="ska43" />
+  <project path="device/samsung/msm8960-common" name="SofaKingAndroid/device_samsung_msm8960-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/qcom-common" name="SofaKingAndroid/device_samsung_qcom-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/d2att" name="SofaKingAndroid/device_samsung_d2att" remote="aokp" revision="ska43" />
   <project path="device/samsung/t0lte" name="SofaKingAndroid/device_samsung_t0lte" remote="aokp" revision="ska43" />
   <project path="device/samsung/smdk4412-qcom-common" name="SofaKingAndroid/device_samsung_smdk4412-qcom-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/smdk4412-common" name="SofaKingAndroid/device_samsung_smdk4412-common" remote="aokp" revision="ska43" />
   <project path="device/samsung/i605" name="SofaKingAndroid/device_samsung_i605" remote="aokp" revision="ska43" />
-  <project path="device/samsung/jfltecan" name="SofaKingAndroid/device_samsung_jfltecan" remote="cm" revision="ska43" />
-  <project path="device/samsung/jflteatt" name="SofaKingAndroid/device_samsung_jflteatt" remote="cm" revision="ska43" />
-  <project path="device/samsung/jfltetmo" name="SofaKingAndroid/device_samsung_jfltetmo" remote="cm" revision="ska43" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
